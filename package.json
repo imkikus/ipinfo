@@ -1,0 +1,14 @@
+{
+  "name": "ipinfo",
+  "version": "1.0.0",
+  "description": "This app givees the details of your ip, or even the ip details you input",
+  "main": "index.js",
+  "scripts": {
+    "start": "zerver web"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "zerver": "^1.0.2"
+  }
+}
